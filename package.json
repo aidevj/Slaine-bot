@@ -1,0 +1,19 @@
+{
+  "name": "slaine-bot",
+  "version": "1.0.0",
+  "description": "Client for Discord.js API bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i4sCancri/Slaine-bot.git"
+  },
+  "author": "Aiden Melendez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i4sCancri/Slaine-bot/issues"
+  },
+  "homepage": "https://github.com/i4sCancri/Slaine-bot#readme"
+}
